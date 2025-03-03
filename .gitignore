@@ -1,0 +1,6 @@
+# Ignorar a pasta do ambiente virtual
+env-k3-EDA/
+
+# Ignorar Dataset's
+data/test.csv
+data/train.csv
